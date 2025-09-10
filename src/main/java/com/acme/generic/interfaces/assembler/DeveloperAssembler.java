@@ -1,5 +1,7 @@
-package com.acme.generic;
+package com.acme.generic.interfaces.assembler;
 
+import com.acme.generic.interfaces.resources.GreetDeveloperRequest;
+import com.acme.generic.domain.model.entity.Developer;
 import org.apache.commons.lang3.StringUtils;
 
 import java.util.Objects;

@@ -1,4 +1,4 @@
-package com.acme.generic;
+package com.acme.generic.domain.model.entity;
 
 import lombok.Builder;
 import lombok.Getter;

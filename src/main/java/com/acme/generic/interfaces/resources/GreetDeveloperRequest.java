@@ -1,4 +1,4 @@
-package com.acme.generic;
+package com.acme.generic.interfaces.resources;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;
