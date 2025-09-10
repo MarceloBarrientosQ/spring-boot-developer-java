@@ -2,6 +2,8 @@ package com.acme.generic.interfaces.resources;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.PostMapping;
 
 /**
  * REST resource representing a request to greet a developer in a generic bounded context.
